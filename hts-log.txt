@@ -1,0 +1,29 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 25 Dec 2023 16:46:22 at https://pocomart.mysapo.net/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://pocomart.mysapo.net/ -O1 "E:\xampp\htdocs\LapTop_Tuan" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+16:48:35	Error: 	"Not Found" (404) at link https://pocomart.mysapo.net/s (from https://pocomart.mysapo.net/)
+17:02:09	Error: 	"Not Found" (404) at link https://pocomart.mysapo.net/https://bizweb.dktcdn.net/100/429/689/articles/d87b025e27bd6c1a7804af8b6046c30e.jpg?v=1623565924640 (from https://pocomart.mysapo.net/iphone-12-va-hang-loat-flagship-dang-giam-gia-cuc-manh)
+17:14:09	Error: 	"Not Found" (404) at link https://pocomart.mysapo.net/https://bizweb.dktcdn.net/100/429/689/articles/galaxy-fold-black-home-screen-open.jpg?v=1623603593787 (from https://pocomart.mysapo.net/galaxy-z-fold-3-va-z-flip-3-se-co-gia-re-hon)
+17:14:09	Error: 	"Not Found" (404) at link https://pocomart.mysapo.net/https://bizweb.dktcdn.net/100/429/689/articles/bun-rieu-da-lat-1.jpg?v=1623602344633 (from https://pocomart.mysapo.net/cach-lam-bun-suon-nau-sau-thanh-mat)
+17:14:09	Error: 	"Not Found" (404) at link https://pocomart.mysapo.net/https://bizweb.dktcdn.net/100/429/689/articles/khuyen-mai-viettel-31-08.jpg?v=1623566790277 (from https://pocomart.mysapo.net/viettel-dang-tang-nguoi-dung-3gb-truy-cap-internet-mien-phi-ap-dung-cho-tat-ca-cac-loai-thue-bao)
+17:14:09	Error: 	"Not Found" (404) at link https://pocomart.mysapo.net/https://bizweb.dktcdn.net/100/429/689/articles/smart-tivi-samsung-55-inch-ua55tu8000kxxv-4k-uhd.jpg?v=1623567121103 (from https://pocomart.mysapo.net/tv-samsung-dang-giam-gia-manh-co-mau-giam-toi-15-trieu-de-kich-cau-dau-nam)
+17:14:09	Error: 	"Not Found" (404) at link https://pocomart.mysapo.net/https://bizweb.dktcdn.net/100/429/689/articles/samsung-galaxy-tab-a7-10-4-full-phone-specifications.jpg?v=1623603340587 (from https://pocomart.mysapo.net/galaxy-tab-a7-lite-may-tinh-bang-nho-gon-tien-dung)
+17:14:09	Error: 	"Not Found" (404) at link https://pocomart.mysapo.net/https://bizweb.dktcdn.net/100/429/689/articles/5136-11993.jpg?v=1623603231653 (from https://pocomart.mysapo.net/sony-tai-nghe-true-wireless-nho-gon)
+17:14:09	Error: 	"Not Found" (404) at link https://pocomart.mysapo.net/https://bizweb.dktcdn.net/100/429/689/articles/apple-ihome-concept-1.jpg?v=1623602544500 (from https://pocomart.mysapo.net/hang-loat-thiet-bi-moi-cua-apple-chay-hang-o-viet-nam)
+17:14:12	Error: 	"Not Found" (404) at link https://pocomart.mysapo.net/https://bizweb.dktcdn.net/100/429/689/articles/thay-pin-apple-watch-jpga.jpg?v=1623567789433 (from https://pocomart.mysapo.net/nha-phan-tich-nay-khang-dinh-apple-watch-da-vuot-qua-cac-doi-thu-tu-cach-day-ca-thap-ky)
+17:14:12	Error: 	"Not Found" (404) at link https://pocomart.mysapo.net/https://bizweb.dktcdn.net/100/429/689/articles/nhung-meo-cai-dat-iphone-de-su-dung-tot-hon-hinh-4.jpg?v=1623566218370 (from https://pocomart.mysapo.net/meo-tim-kiem-anh-cuc-nhanh-tren-iphone-ma-gan-nhu-tat-ca-nguoi-dung-deu-chua-tung-biet)
+17:14:12	Error: 	"Not Found" (404) at link https://pocomart.mysapo.net/https://bizweb.dktcdn.net/100/429/689/articles/may-chieu-laser-xiaomi-chinh-hang-viet-nam-mistore-6.png?v=1623603038997 (from https://pocomart.mysapo.net/loat-may-chieu-mini-gia-2-trieu-dong-de-xem-bong-da)
+17:14:12	Error: 	"Not Found" (404) at link https://pocomart.mysapo.net/https://bizweb.dktcdn.net/100/429/689/articles/may-loc-nuoc-ion-kiem-1.png?v=1623602924227 (from https://pocomart.mysapo.net/kham-pha-may-loc-nuoc-0-dong-cua-kangaroo)
+17:14:12	Error: 	"Not Found" (404) at link https://pocomart.mysapo.net/https://bizweb.dktcdn.net/100/429/689/articles/f2brhdveudwnrzvln9qvers3id9t9j9lpdgb.jpg?v=1623602774220 (from https://pocomart.mysapo.net/find-x3-pro-do-camera-cung-galaxy-s21-ultra)
+17:14:12	Error: 	"Not Found" (404) at link https://pocomart.mysapo.net/https://bizweb.dktcdn.net/100/429/689/articles/gfb0cpg8g0zfa.jpg?v=1623602630130 (from https://pocomart.mysapo.net/noi-chien-khong-dau-dung-tich-lon-gia-2-trieu-dong)
+17:14:13	Error: 	"Not Found" (404) at link bizweb.dktcdn.net/100/429/689/themes/869367/img/vimeo-play.png (from bizweb.dktcdn.net/100/429/689/themes/869367/assets/lightgallery.css?1697597694844)
+17:14:13	Error: 	"Not Found" (404) at link bizweb.dktcdn.net/100/429/689/themes/869367/img/video-play.png (from bizweb.dktcdn.net/100/429/689/themes/869367/assets/lightgallery.css?1697597694844)
+17:14:13	Error: 	"Not Found" (404) at link bizweb.dktcdn.net/100/429/689/themes/869367/img/youtube-play.png (from bizweb.dktcdn.net/100/429/689/themes/869367/assets/lightgallery.css?1697597694844)
+
+HTTrack Website Copier/3.49-2 mirror complete in 27 minutes 53 seconds : 612 links scanned, 592 files written (79968620 bytes overall) [62597687 bytes received at 37416 bytes/sec], 27019847 bytes transferred using HTTP compression in 164 files, ratio 24%, 1.6 requests per connection
+(18 errors, 0 warnings, 0 messages)
